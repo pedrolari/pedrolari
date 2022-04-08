@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Php, Laravel, Symfony, Vue, JS, Postgres, MySQL**
 
-- 📫 How to reach me **alejandro.benito@wembleystudios.com**
+- 📫 How to reach me **alejandro.benito@gmail.com**, **alejandro.benito@wembleystudios.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
